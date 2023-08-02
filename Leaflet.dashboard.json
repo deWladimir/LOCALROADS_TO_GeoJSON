@@ -1,0 +1,9 @@
+{
+    "DashboardGroupCode": "Task",
+    "Position": 5,
+    "Description": "",
+    "DescriptionUrl": "",
+    "ModelType": "Dashboard",
+    "Code": "Leaflet",
+    "Name": "Карта"
+}

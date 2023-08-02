@@ -1,0 +1,37 @@
+{
+    "ModelType": "Query",
+    "Code": "Select_Roads",
+    "Name": "Select_Roads",
+    "ConnectionCode": "Default",
+    "IsUsedForRightsFilter": false,
+    "IsAnonymousAccess": false,
+    "Columns": [
+        {
+            "Code": "TrackCode",
+            "Name": "Код дороги",
+            "Position": 0
+        },
+        {
+            "Code": "Name",
+            "Name": "Назва дороги",
+            "Position": 1
+        },
+        {
+            "Code": "DistanceFrom",
+            "Name": "КМ від",
+            "Position": 2
+        },
+        {
+            "Code": "DistanceTo",
+            "Name": "КМ до",
+            "Position": 3
+        },
+        {
+            "Code": "CoordinateHash",
+            "Name": "CoordinateHash",
+            "Position": 4
+        }
+    ],
+    "Parameters": [
+    ]
+}
